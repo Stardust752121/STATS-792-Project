@@ -10,19 +10,19 @@
 
 ### 2.1 Datasets information:
 
-![Data Information](AD-Model/img/data-information.png)
+![Data Information](img/data-information.png)
 
 
 ## 3. Model structure
 
 ### 3.1 Overview Architecture
-![Model structure](AD-Model/img/Model_Architecture.png)
+![Model structure](img/Model_Architecture.png)
 
 ### 3.2 Adaptive Dynamic Neighbor Mask (ADMN)
-![Model structure](AD-Model/img/ADNM_Masking_handmake.png  )
+![Model structure](img/ADNM_Masking_handmake.png  )
 
 ### 3.3 Dictionaries-based Cross-attention
-![Model structure](AD-Model/img/Dictionary-based-right.png)
+![Model structure](img/Dictionary-based-right.png)
 
 ## 4. Experiment results reproduce
 
