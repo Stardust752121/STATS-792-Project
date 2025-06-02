@@ -113,14 +113,14 @@ It can be seen that the baseline model results are almost identical to those in 
 
 ### a. Adaptive Dynamic Neighbor Masking (ADNM)
 **Replacement:** Replaced ADNM with the traditional causal mask (upper-triangular), as used in standard Transformers. This restricts attention to only past timesteps and lacks adaptive masking based on input content.
-![ADNM Mask](img/ADNM_Masking_handmakek.png)
+![ADNM Mask](img/ADNM_VS_Trangle.png)
 
 ---
 
 ### b. Dictionary-based Cross Attention
 **Replacement:** 
 Replaced the dictionary-based cross-attention with conventional self-attention, where queries, keys, and values are derived from the same input sequence. This eliminates the use of global shared prototypes.
-![Cross Attention](img/Traditional-Trasformer%20Self-Attention%20vs.%20Dictionary-based%20cross-attention.png)
+![Cross Attention](img/Self-Attention_VS_cross-attention.png )
 
 
 ---
@@ -128,11 +128,11 @@ Replaced the dictionary-based cross-attention with conventional self-attention, 
 ### c. Dynamic Thresholding via SPOT
 **Replacement:** Replaced SPOT (based on Extreme Value Theory) with a static percentile thresholding strategy (e.g., Top-5%), where anomaly scores are truncated at a fixed quantile level.
 
-![SPOT Thresholding](img/SPOT.png)
+![SPOT Thresholding](img/Percentile_VS_SPOT.png)
 
 ### 5.5.3 Model efficiency
 
-![Model Efficiency](img/Model%20Efficiency%20Comparison.png)
+![Model Efficiency](img/model_eEfficiency_plot.png)
 
 
 ## 6. Reference
