@@ -132,7 +132,7 @@ Replaced the dictionary-based cross-attention with conventional self-attention, 
 
 ### 5.5.3 Model efficiency
 
-![Model Efficiency](img/model_eEfficiency_plot.png)
+![Model Efficiency](img/model_efficiency_plot.png)
 
 
 ## 6. Reference
