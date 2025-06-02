@@ -113,7 +113,7 @@ It can be seen that the baseline model results are almost identical to those in 
 
 ### a. Adaptive Dynamic Neighbor Masking (ADNM)
 **Replacement:** Replaced ADNM with the traditional causal mask (upper-triangular), as used in standard Transformers. This restricts attention to only past timesteps and lacks adaptive masking based on input content.
-![ADNM Mask](img/Trangle%20Mask%20vs.%20ADNM%20Mask.png)
+![ADNM Mask](img/ADNM_Masking_handmakek.png)
 
 ---
 
