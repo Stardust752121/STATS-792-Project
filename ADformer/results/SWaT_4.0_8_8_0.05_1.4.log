@@ -1,0 +1,8 @@
+2025-05-23 23:46:55,077 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SWaT', dataset='SWaT', input_c=51, output_c=51, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=4.0, num_proto=8, len_map=8, anomaly_ratio=1.4, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_Dspot=False)
+2025-05-23 23:46:55,113 - ======================TEST MODE======================
+2025-05-23 23:47:10,095 - Threshold : -0.009906030355021357
+2025-05-23 23:47:17,399 - pred:   (449900,)
+2025-05-23 23:47:17,400 - gt:     (449900,)
+2025-05-23 23:47:17,504 - pred: (449900,)
+2025-05-23 23:47:17,505 - gt:   (449900,)
+2025-05-23 23:47:18,921 - Accuracy : 0.9873, Precision : 0.9051, Recall : 1.0000, F-score : 0.9502 

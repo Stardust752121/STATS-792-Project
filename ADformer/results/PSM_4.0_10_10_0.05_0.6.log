@@ -1,0 +1,8 @@
+2025-05-10 21:33:05,993 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/PSM', dataset='PSM', input_c=25, output_c=25, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=4.0, num_proto=10, len_map=10, anomaly_ratio=0.6, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_Dspot=False)
+2025-05-10 21:33:06,020 - ======================TEST MODE======================
+2025-05-10 21:33:27,623 - Threshold : -0.009999820031225681
+2025-05-10 21:33:27,773 - pred:   (87800,)
+2025-05-10 21:33:27,773 - gt:     (87800,)
+2025-05-10 21:33:27,805 - pred: (87800,)
+2025-05-10 21:33:27,805 - gt:   (87800,)
+2025-05-10 21:33:28,097 - Accuracy : 0.9886, Precision : 0.9861, Recall : 0.9726, F-score : 0.9793 

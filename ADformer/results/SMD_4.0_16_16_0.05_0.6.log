@@ -1,0 +1,8 @@
+2025-05-11 17:10:09,972 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMD', dataset='SMD', input_c=38, output_c=38, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=4.0, num_proto=16, len_map=16, anomaly_ratio=0.6, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_Dspot=False)
+2025-05-11 17:10:10,003 - ======================TEST MODE======================
+2025-05-11 17:10:12,653 - Threshold : -0.009789205620065328
+2025-05-11 17:10:13,802 - pred:   (708400,)
+2025-05-11 17:10:13,802 - gt:     (708400,)
+2025-05-11 17:10:13,950 - pred: (708400,)
+2025-05-11 17:10:13,950 - gt:   (708400,)
+2025-05-11 17:10:16,009 - Accuracy : 0.9858, Precision : 0.8543, Recall : 0.7949, F-score : 0.8235 

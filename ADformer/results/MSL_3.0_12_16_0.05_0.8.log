@@ -1,0 +1,35 @@
+2025-05-08 17:32:21,651 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/MSL', dataset='MSL', input_c=55, output_c=55, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=3.0, num_proto=12, len_map=16, anomaly_ratio=0.8, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_spot=False)
+2025-05-08 17:32:21,680 - ======================TEST MODE======================
+2025-05-08 17:32:31,095 - Threshold : -0.009996349923312664
+2025-05-08 17:32:31,207 - pred:   (73700,)
+2025-05-08 17:32:31,207 - gt:     (73700,)
+2025-05-08 17:32:31,227 - pred: (73700,)
+2025-05-08 17:32:31,227 - gt:   (73700,)
+2025-05-08 17:32:31,404 - Accuracy : 0.9896, Precision : 0.9364, Recall : 0.9669, F-score : 0.9514
+
+
+
+2025-05-11 17:14:40,806 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/MSL', dataset='MSL', input_c=55, output_c=55, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=3.0, num_proto=12, len_map=16, anomaly_ratio=0.8, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_Dspot=False)
+2025-05-11 17:14:40,826 - ======================TEST MODE======================
+2025-05-11 17:14:50,189 - Threshold : -0.009996349923312664
+2025-05-11 17:14:50,310 - pred:   (73700,)
+2025-05-11 17:14:50,310 - gt:     (73700,)
+2025-05-11 17:14:50,321 - pred: (73700,)
+2025-05-11 17:14:50,321 - gt:   (73700,)
+2025-05-11 17:14:50,525 - Accuracy : 0.9896, Precision : 0.9364, Recall : 0.9669, F-score : 0.9514 
+2025-05-11 17:16:37,532 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/MSL', dataset='MSL', input_c=55, output_c=55, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=3.0, num_proto=12, len_map=16, anomaly_ratio=0.8, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_Dspot=False)
+2025-05-11 17:16:37,564 - ======================TEST MODE======================
+2025-05-11 17:16:46,870 - Threshold : -0.009996349923312664
+2025-05-11 17:16:47,029 - pred:   (73700,)
+2025-05-11 17:16:47,029 - gt:     (73700,)
+2025-05-11 17:16:47,040 - pred: (73700,)
+2025-05-11 17:16:47,040 - gt:   (73700,)
+2025-05-11 17:16:47,214 - Accuracy : 0.9896, Precision : 0.9364, Recall : 0.9669, F-score : 0.9514 
+2025-05-24 20:12:41,346 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/MSL', dataset='MSL', input_c=55, output_c=55, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=3.0, num_proto=12, len_map=16, anomaly_ratio=0.8, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_Dspot=False)
+2025-05-24 20:12:41,402 - ======================TEST MODE======================
+2025-05-24 20:14:15,826 - Threshold : -0.009996349923312664
+2025-05-24 20:14:16,977 - pred:   (73700,)
+2025-05-24 20:14:16,977 - gt:     (73700,)
+2025-05-24 20:14:16,990 - pred: (73700,)
+2025-05-24 20:14:16,990 - gt:   (73700,)
+2025-05-24 20:14:17,223 - Accuracy : 0.9896, Precision : 0.9364, Recall : 0.9669, F-score : 0.9514 

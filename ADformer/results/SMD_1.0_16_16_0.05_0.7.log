@@ -1,0 +1,56 @@
+2025-04-03 22:15:27,582 - Namespace(seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMD', dataset='SMD', input_c=38, output_c=38, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=1.0, num_proto=16, len_map=16, anomaly_ratio=0.7, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8)
+2025-04-03 22:15:27,606 - ======================TEST MODE======================
+2025-04-03 22:15:29,995 - Threshold : -0.00929216924402864
+2025-04-03 22:15:31,054 - pred:   (708400,)
+2025-04-03 22:15:31,054 - gt:     (708400,)
+2025-04-03 22:15:31,188 - pred: (708400,)
+2025-04-03 22:15:31,188 - gt:   (708400,)
+2025-04-03 22:15:32,745 - Accuracy : 0.9872, Precision : 0.8513, Recall : 0.8395, F-score : 0.8454 
+2025-04-04 14:30:57,938 - Namespace(seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMD', dataset='SMD', input_c=38, output_c=38, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=1.0, num_proto=16, len_map=16, anomaly_ratio=0.7, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8)
+2025-04-04 14:30:57,974 - ======================TEST MODE======================
+2025-04-04 14:31:00,714 - Threshold : -0.00929216924402864
+2025-04-04 14:31:01,788 - pred:   (708400,)
+2025-04-04 14:31:01,788 - gt:     (708400,)
+2025-04-04 14:31:01,923 - pred: (708400,)
+2025-04-04 14:31:01,923 - gt:   (708400,)
+2025-04-04 14:31:03,486 - Accuracy : 0.9872, Precision : 0.8513, Recall : 0.8395, F-score : 0.8454 
+2025-04-04 22:27:25,585 - Namespace(seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMD', dataset='SMD', input_c=38, output_c=38, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=1.0, num_proto=16, len_map=16, anomaly_ratio=0.7, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8)
+2025-04-04 22:27:25,624 - ======================TEST MODE======================
+2025-04-04 22:27:28,837 - Threshold : -0.00929216924402864
+2025-04-04 22:27:29,959 - pred:   (708400,)
+2025-04-04 22:27:29,959 - gt:     (708400,)
+2025-04-04 22:27:30,094 - pred: (708400,)
+2025-04-04 22:27:30,094 - gt:   (708400,)
+2025-04-04 22:27:31,911 - Accuracy : 0.9872, Precision : 0.8513, Recall : 0.8395, F-score : 0.8454 
+2025-04-06 17:11:28,122 - Namespace(seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMD', dataset='SMD', input_c=38, output_c=38, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=1.0, num_proto=16, len_map=16, anomaly_ratio=0.7, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8)
+2025-04-06 17:11:28,157 - ======================TEST MODE======================
+2025-04-06 17:11:30,640 - Threshold : -0.00929216924402864
+2025-04-06 17:11:31,719 - pred:   (708400,)
+2025-04-06 17:11:31,719 - gt:     (708400,)
+2025-04-06 17:11:31,852 - pred: (708400,)
+2025-04-06 17:11:31,852 - gt:   (708400,)
+2025-04-06 17:11:33,508 - Accuracy : 0.9872, Precision : 0.8513, Recall : 0.8395, F-score : 0.8454 
+2025-04-06 17:19:58,401 - Namespace(seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMD', dataset='SMD', input_c=38, output_c=38, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=1.0, num_proto=16, len_map=16, anomaly_ratio=0.7, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8)
+2025-04-06 17:19:58,424 - ======================TEST MODE======================
+2025-04-06 17:20:00,827 - Threshold : -0.00929216924402864
+2025-04-06 17:20:01,891 - pred:   (708400,)
+2025-04-06 17:20:01,891 - gt:     (708400,)
+2025-04-06 17:20:02,032 - pred: (708400,)
+2025-04-06 17:20:02,033 - gt:   (708400,)
+2025-04-06 17:20:03,570 - Accuracy : 0.9872, Precision : 0.8513, Recall : 0.8395, F-score : 0.8454 
+2025-04-08 17:13:39,511 - Namespace(seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMD', dataset='SMD', input_c=38, output_c=38, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=1.0, num_proto=16, len_map=16, anomaly_ratio=0.7, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8)
+2025-04-08 17:13:39,543 - ======================TEST MODE======================
+2025-04-08 17:13:41,942 - Threshold : -0.00929216924402864
+2025-04-08 17:13:42,999 - pred:   (708400,)
+2025-04-08 17:13:42,999 - gt:     (708400,)
+2025-04-08 17:13:43,118 - pred: (708400,)
+2025-04-08 17:13:43,119 - gt:   (708400,)
+2025-04-08 17:13:44,706 - Accuracy : 0.9872, Precision : 0.8513, Recall : 0.8395, F-score : 0.8454 
+2025-05-08 17:13:44,703 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMD', dataset='SMD', input_c=38, output_c=38, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=1.0, num_proto=16, len_map=16, anomaly_ratio=0.7, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_spot=False)
+2025-05-08 17:13:44,734 - ======================TEST MODE======================
+2025-05-08 17:13:47,104 - Threshold : -0.00929220308735967
+2025-05-08 17:13:48,153 - pred:   (708400,)
+2025-05-08 17:13:48,153 - gt:     (708400,)
+2025-05-08 17:13:48,279 - pred: (708400,)
+2025-05-08 17:13:48,279 - gt:   (708400,)
+2025-05-08 17:13:49,770 - Accuracy : 0.9872, Precision : 0.8513, Recall : 0.8395, F-score : 0.8454 

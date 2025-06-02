@@ -1,0 +1,32 @@
+2025-03-30 17:29:37,731 - Namespace(seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/models/GDformer-main/data/MSL', dataset='MSL', input_c=55, output_c=55, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/models/GDformer-main/results', mask_ratio=0.05, k=2, num_proto=8, len_map=8, anomaly_ratio=0.5, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8)
+2025-03-30 17:29:37,762 - ======================TEST MODE======================
+2025-03-30 17:29:47,202 - Threshold : -0.009996937587857246
+2025-03-30 17:29:47,315 - pred:   (73700,)
+2025-03-30 17:29:47,315 - gt:     (73700,)
+2025-03-30 17:29:47,335 - pred: (73700,)
+2025-03-30 17:29:47,335 - gt:   (73700,)
+2025-03-30 17:29:47,511 - Accuracy : 0.9867, Precision : 0.9556, Recall : 0.9163, F-score : 0.9355 
+2025-03-31 16:38:01,213 - Namespace(seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/models/GDformer-main/data/MSL', dataset='MSL', input_c=55, output_c=55, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/models/GDformer-main/results', mask_ratio=0.05, k=2, num_proto=8, len_map=8, anomaly_ratio=0.5, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8)
+2025-03-31 16:38:01,246 - ======================TEST MODE======================
+2025-03-31 16:38:10,962 - Threshold : -0.009996937587857246
+2025-03-31 16:38:11,083 - pred:   (73700,)
+2025-03-31 16:38:11,083 - gt:     (73700,)
+2025-03-31 16:38:11,104 - pred: (73700,)
+2025-03-31 16:38:11,104 - gt:   (73700,)
+2025-03-31 16:38:11,286 - Accuracy : 0.9867, Precision : 0.9556, Recall : 0.9163, F-score : 0.9355 
+2025-03-31 20:28:32,403 - Namespace(seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/models/GDformer-main/data/MSL', dataset='MSL', input_c=55, output_c=55, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/models/GDformer-main/results', mask_ratio=0.05, k=2, num_proto=8, len_map=8, anomaly_ratio=0.5, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8)
+2025-03-31 20:28:32,451 - ======================TEST MODE======================
+2025-03-31 20:28:41,965 - Threshold : -0.009996937587857246
+2025-03-31 20:28:42,084 - pred:   (73700,)
+2025-03-31 20:28:42,084 - gt:     (73700,)
+2025-03-31 20:28:42,099 - pred: (73700,)
+2025-03-31 20:28:42,099 - gt:   (73700,)
+2025-03-31 20:28:42,279 - Accuracy : 0.9867, Precision : 0.9556, Recall : 0.9163, F-score : 0.9355 
+2025-05-07 21:07:27,574 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/MSL', dataset='MSL', input_c=55, output_c=55, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=2, num_proto=8, len_map=8, anomaly_ratio=0.5, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_spot=False)
+2025-05-07 21:07:27,606 - ======================TEST MODE======================
+2025-05-07 21:07:36,793 - Threshold : -0.009996923618018627
+2025-05-07 21:07:36,961 - pred:   (73700,)
+2025-05-07 21:07:36,961 - gt:     (73700,)
+2025-05-07 21:07:36,969 - pred: (73700,)
+2025-05-07 21:07:36,969 - gt:   (73700,)
+2025-05-07 21:07:37,152 - Accuracy : 0.9853, Precision : 0.9550, Recall : 0.9025, F-score : 0.9280 

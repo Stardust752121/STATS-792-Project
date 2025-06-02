@@ -1,0 +1,17 @@
+2025-05-24 22:45:19,947 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMAP', dataset='SMAP', input_c=25, output_c=25, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=3.0, num_proto=12, len_map=16, anomaly_ratio=1.0, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_Dspot=False)
+2025-05-25 00:15:27,860 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMAP', dataset='SMAP', input_c=25, output_c=25, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=3.0, num_proto=12, len_map=16, anomaly_ratio=1.0, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_Dspot=False)
+2025-05-25 00:15:27,891 - ======================TEST MODE======================
+2025-05-25 00:15:49,099 - Threshold : -0.009999850764870644
+2025-05-25 00:15:49,753 - pred:   (427600,)
+2025-05-25 00:15:49,753 - gt:     (427600,)
+2025-05-25 00:15:49,848 - pred: (427600,)
+2025-05-25 00:15:49,848 - gt:   (427600,)
+2025-05-25 00:15:50,845 - Accuracy : 0.9701, Precision : 0.9628, Recall : 0.7968, F-score : 0.8719 
+2025-05-25 02:10:22,932 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMAP', dataset='SMAP', input_c=25, output_c=25, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=3.0, num_proto=12, len_map=16, anomaly_ratio=1.0, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_Dspot=False)
+2025-05-25 02:10:22,966 - ======================TEST MODE======================
+2025-05-25 02:10:43,959 - Threshold : -0.009999850764870644
+2025-05-25 02:10:44,600 - pred:   (427600,)
+2025-05-25 02:10:44,600 - gt:     (427600,)
+2025-05-25 02:10:44,690 - pred: (427600,)
+2025-05-25 02:10:44,691 - gt:   (427600,)
+2025-05-25 02:10:45,648 - Accuracy : 0.9701, Precision : 0.9628, Recall : 0.7968, F-score : 0.8719 

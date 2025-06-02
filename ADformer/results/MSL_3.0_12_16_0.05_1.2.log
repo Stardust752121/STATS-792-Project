@@ -1,0 +1,8 @@
+2025-05-24 20:17:45,999 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/MSL', dataset='MSL', input_c=55, output_c=55, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=3.0, num_proto=12, len_map=16, anomaly_ratio=1.2, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_Dspot=False)
+2025-05-24 20:17:46,037 - ======================TEST MODE======================
+2025-05-24 20:19:19,147 - Threshold : -0.009997742250561714
+2025-05-24 20:19:20,323 - pred:   (73700,)
+2025-05-24 20:19:20,323 - gt:     (73700,)
+2025-05-24 20:19:20,339 - pred: (73700,)
+2025-05-24 20:19:20,339 - gt:   (73700,)
+2025-05-24 20:19:20,516 - Accuracy : 0.9870, Precision : 0.9039, Recall : 0.9807, F-score : 0.9407 

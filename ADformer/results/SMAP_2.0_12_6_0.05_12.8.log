@@ -1,0 +1,8 @@
+2025-05-16 14:56:51,834 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMAP', dataset='SMAP', input_c=25, output_c=25, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=2.0, num_proto=12, len_map=6, anomaly_ratio=12.8, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_Dspot=False)
+2025-05-16 14:56:51,859 - ======================TEST MODE======================
+2025-05-16 14:57:12,793 - Threshold : -0.009999970905482769
+2025-05-16 14:57:13,431 - pred:   (427600,)
+2025-05-16 14:57:13,432 - gt:     (427600,)
+2025-05-16 14:57:13,524 - pred: (427600,)
+2025-05-16 14:57:13,524 - gt:   (427600,)
+2025-05-16 14:57:14,502 - Accuracy : 0.8810, Precision : 0.5181, Recall : 0.9993, F-score : 0.6824 

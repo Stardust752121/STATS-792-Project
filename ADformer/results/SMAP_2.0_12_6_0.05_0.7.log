@@ -1,0 +1,40 @@
+2025-05-08 18:50:56,168 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMAP', dataset='SMAP', input_c=25, output_c=25, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=2.0, num_proto=12, len_map=6, anomaly_ratio=0.7, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_spot=False)
+2025-05-08 18:50:56,216 - ======================TEST MODE======================
+2025-05-08 18:51:17,341 - Threshold : -0.009999671950936317
+2025-05-08 18:51:17,997 - pred:   (427600,)
+2025-05-08 18:51:17,997 - gt:     (427600,)
+2025-05-08 18:51:18,082 - pred: (427600,)
+2025-05-08 18:51:18,082 - gt:   (427600,)
+2025-05-08 18:51:19,021 - Accuracy : 0.9405, Precision : 0.9419, Recall : 0.5704, F-score : 0.7105 
+2025-05-08 23:17:37,913 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMAP', dataset='SMAP', input_c=25, output_c=25, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=2.0, num_proto=12, len_map=6, anomaly_ratio=0.7, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_spot=False)
+2025-05-08 23:17:37,949 - ======================TEST MODE======================
+2025-05-08 23:17:59,548 - Threshold : -0.009999671950936317
+2025-05-08 23:18:00,187 - pred:   (427600,)
+2025-05-08 23:18:00,187 - gt:     (427600,)
+2025-05-08 23:18:00,273 - pred: (427600,)
+2025-05-08 23:18:00,273 - gt:   (427600,)
+2025-05-08 23:18:01,209 - Accuracy : 0.9405, Precision : 0.9419, Recall : 0.5704, F-score : 0.7105 
+2025-05-09 14:33:44,735 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMAP', dataset='SMAP', input_c=25, output_c=25, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=2.0, num_proto=12, len_map=6, anomaly_ratio=0.7, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_spot=False)
+2025-05-09 14:33:44,768 - ======================TEST MODE======================
+2025-05-09 14:34:05,692 - Threshold : -0.009999671950936317
+2025-05-09 14:34:06,327 - pred:   (427600,)
+2025-05-09 14:34:06,327 - gt:     (427600,)
+2025-05-09 14:34:06,409 - pred: (427600,)
+2025-05-09 14:34:06,409 - gt:   (427600,)
+2025-05-09 14:34:07,317 - Accuracy : 0.9405, Precision : 0.9419, Recall : 0.5704, F-score : 0.7105 
+2025-05-16 16:28:40,841 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMAP', dataset='SMAP', input_c=25, output_c=25, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=2.0, num_proto=12, len_map=6, anomaly_ratio=0.7, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_Dspot=False)
+2025-05-16 16:28:40,867 - ======================TEST MODE======================
+2025-05-16 16:29:04,802 - Threshold : -0.00999967660754919
+2025-05-16 16:29:05,539 - pred:   (427600,)
+2025-05-16 16:29:05,540 - gt:     (427600,)
+2025-05-16 16:29:05,644 - pred: (427600,)
+2025-05-16 16:29:05,644 - gt:   (427600,)
+2025-05-16 16:29:06,715 - Accuracy : 0.9405, Precision : 0.9416, Recall : 0.5704, F-score : 0.7104 
+2025-05-25 01:14:41,620 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMAP', dataset='SMAP', input_c=25, output_c=25, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=2.0, num_proto=12, len_map=6, anomaly_ratio=0.7, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_Dspot=False)
+2025-05-25 01:14:41,652 - ======================TEST MODE======================
+2025-05-25 01:15:02,531 - Threshold : -0.00999967660754919
+2025-05-25 01:15:03,167 - pred:   (427600,)
+2025-05-25 01:15:03,167 - gt:     (427600,)
+2025-05-25 01:15:03,256 - pred: (427600,)
+2025-05-25 01:15:03,256 - gt:   (427600,)
+2025-05-25 01:15:04,210 - Accuracy : 0.9405, Precision : 0.9416, Recall : 0.5704, F-score : 0.7104 

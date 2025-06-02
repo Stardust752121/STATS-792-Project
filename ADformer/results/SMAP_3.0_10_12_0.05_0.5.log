@@ -1,0 +1,13 @@
+2025-05-11 17:20:05,239 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMAP', dataset='SMAP', input_c=25, output_c=25, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=3.0, num_proto=10, len_map=12, anomaly_ratio=0.5, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_Dspot=False)
+2025-05-11 17:44:17,070 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMAP', dataset='SMAP', input_c=25, output_c=25, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=3.0, num_proto=10, len_map=12, anomaly_ratio=0.5, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_Dspot=False)
+2025-05-11 17:44:17,085 - ======================TEST MODE======================
+2025-05-11 17:44:38,122 - Threshold : -0.00999993085861206
+2025-05-11 17:44:38,781 - pred:   (427600,)
+2025-05-11 17:44:38,781 - gt:     (427600,)
+2025-05-11 17:44:38,865 - pred: (427600,)
+2025-05-11 17:44:38,865 - gt:   (427600,)
+2025-05-11 17:44:40,026 - Accuracy : 0.9416, Precision : 0.9562, Recall : 0.5696, F-score : 0.7139 
+2025-05-17 16:13:06,798 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMAP', dataset='SMAP', input_c=25, output_c=25, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=3.0, num_proto=10, len_map=12, anomaly_ratio=0.5, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_Dspot=False)
+2025-05-17 16:13:06,830 - ======================TEST MODE======================
+2025-05-17 16:13:27,704 - SPOT Threshold : -0.009999999776482582
+2025-05-17 16:13:29,380 - Accuracy : 0.9413, Precision : 0.9524, Recall : 0.5696, F-score : 0.7129

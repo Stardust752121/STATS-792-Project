@@ -1,0 +1,16 @@
+2025-05-17 16:01:40,353 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMAP', dataset='SMAP', input_c=25, output_c=25, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=3.0, num_proto=10, len_map=12, anomaly_ratio=0.3, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_Dspot=False)
+2025-05-17 16:01:40,385 - ======================TEST MODE======================
+2025-05-17 16:02:01,191 - SPOT Threshold : -0.009999999776482582
+2025-05-17 16:02:02,856 - Accuracy : 0.9413, Precision : 0.9524, Recall : 0.5696, F-score : 0.7129
+2025-05-17 16:16:50,490 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMAP', dataset='SMAP', input_c=25, output_c=25, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=3.0, num_proto=10, len_map=12, anomaly_ratio=0.3, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_Dspot=False)
+2025-05-17 16:16:50,520 - ======================TEST MODE======================
+2025-05-17 16:17:11,542 - SPOT Threshold : -0.009999999776482582
+2025-05-17 16:17:13,218 - Accuracy : 0.9413, Precision : 0.9524, Recall : 0.5696, F-score : 0.7129
+2025-05-23 23:58:17,808 - Namespace(optuna=False, seed=1, mode='test', data_path='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/data/SMAP', dataset='SMAP', input_c=25, output_c=25, model_save_path='model_params', results='C:/Users/Stardust/Desktop/UoA/2025.02/STATS792B/AD-Model/results', mask_ratio=0.05, k=3.0, num_proto=10, len_map=12, anomaly_ratio=0.3, win_size=100, batch_size=64, lr=0.0001, num_epochs=10, e_layers=3, d_model=512, n_heads=8, use_Dspot=False)
+2025-05-23 23:58:17,857 - ======================TEST MODE======================
+2025-05-24 00:02:23,114 - Threshold : -0.009999850764870644
+2025-05-24 00:02:30,379 - pred:   (427600,)
+2025-05-24 00:02:30,379 - gt:     (427600,)
+2025-05-24 00:02:30,490 - pred: (427600,)
+2025-05-24 00:02:30,490 - gt:   (427600,)
+2025-05-24 00:02:31,787 - Accuracy : 0.9419, Precision : 0.9744, Recall : 0.5607, F-score : 0.7118 
